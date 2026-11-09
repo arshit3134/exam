@@ -1,0 +1,6 @@
+{
+  "name": "ApexExam - MERN Online Examination System",
+  "description": "Production-grade MERN stack online examination platform featuring role-based portals for teachers and candidates, MCQ question authoring, real-time exam timer, automated evaluation, and deep analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
